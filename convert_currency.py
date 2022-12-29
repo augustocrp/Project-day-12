@@ -37,3 +37,4 @@ class ConvertCurrency:
             return
         new_value = rate*amount
         return new_value
+        
